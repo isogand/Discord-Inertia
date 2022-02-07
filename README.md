@@ -9,7 +9,7 @@
 ## Demo
 
 ![](https://i.ibb.co/9cJM2tC/Screenshot-from-2022-02-06-15-21-13.png)
-![](https://serving.photos.photobox.com/25480475e31e57df083316d676a1f9e6c001ce85c952e55162ab2dcdef69a746cd804eb2.jpg)
+![](https://i.ibb.co/vsMkBjr/Screenshot-from-2022-02-07-11-44-01.png)
 
 
 ## About Laravel
