@@ -1,9 +1,3 @@
-## Demo
-
-![](https://serving.photos.photobox.com/86256607a4cd3ce63a1f8fd9f29e6edbce802083e71416e703ac24cc5af6ec2ac38020cf.jpg)
-![](https://serving.photos.photobox.com/25480475e31e57df083316d676a1f9e6c001ce85c952e55162ab2dcdef69a746cd804eb2.jpg)
-
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -12,6 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Demo
+
+![](https://serving.photos.photobox.com/86256607a4cd3ce63a1f8fd9f29e6edbce802083e71416e703ac24cc5af6ec2ac38020cf.jpg)
+<img src="https://serving.photos.photobox.com/86256607a4cd3ce63a1f8fd9f29e6edbce802083e71416e703ac24cc5af6ec2ac38020cf.jpg">
+![](https://serving.photos.photobox.com/25480475e31e57df083316d676a1f9e6c001ce85c952e55162ab2dcdef69a746cd804eb2.jpg)
+
 
 ## About Laravel
 
