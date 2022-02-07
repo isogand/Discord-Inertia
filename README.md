@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## Demo
+ A demo application to illustrate how Inertia.js works.
 
 ![](https://i.ibb.co/9cJM2tC/Screenshot-from-2022-02-06-15-21-13.png)
 ![](https://i.ibb.co/vsMkBjr/Screenshot-from-2022-02-07-11-44-01.png)
