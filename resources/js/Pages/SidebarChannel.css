@@ -1,0 +1,32 @@
+.sidebarChannel {
+    display: flex;
+}
+
+.sidebarChannel > h4 {
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+    background-color: #2f3135;
+    color: gray;
+    cursor: pointer;
+}
+
+.sidebarChannel:hover > h4 {
+    color: white;
+}
+
+.sidebarChannel__hash {
+    font-size: 30px;
+    padding: 8px;
+}
+.img {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+    margin:10px;
+}
+.img:hover {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 15px;
+}
