@@ -31,7 +31,7 @@ cd pingcrm"><pre>git clone https://github.com/isogand/Discord-Inertia.git
 <div class="highlight highlight-source-shell position-relative overflow-auto" data-snippet-clipboard-copy-content="php artisan serve"><pre>php artisan serve</pre></div>
 
 <div id="responsive-meta-container" data-pjax-replace>
-      <div class="d-block d-md-none mb-2 px-3 px-md-4 px-lg-5">
+       <div class="d-block d-md-none mb-2 px-3 px-md-4 px-lg-5">
       <p class="f4 mb-3">
         Official Inertia.js website.
       </p>
@@ -42,5 +42,6 @@ cd pingcrm"><pre>git clone https://github.com/isogand/Discord-Inertia.git
         <span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
           <a title="https://inertiajs.com" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://inertiajs.com">inertiajs.com</a>
         </span>
-      </div>
           <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji>
+      </div>
+         
