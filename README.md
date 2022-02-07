@@ -44,4 +44,6 @@ cd pingcrm"><pre>git clone https://github.com/isogand/Discord-Inertia.git
         </span>
           <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji>
       </div>
+            </div>
+     </div>
          
