@@ -37,11 +37,6 @@ cd pingcrm"><pre>git clone https://github.com/isogand/Discord-Inertia.git
       </h1>
           
       
-        <span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
-          <a title="https://inertiajs.com" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://inertiajs.com">inertiajs.com</a>
-        </span>
-          <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji>
-      </div>
-            </div>
-     </div>
+           <p></p>
          
+   </div>
