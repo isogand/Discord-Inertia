@@ -22,7 +22,7 @@
 <p dir="auto">Clone the repo locally:</p>
 <div class="highlight highlight-source-shell position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/inertiajs/pingcrm.git pingcrm
 cd pingcrm"><pre>git clone https://github.com/isogand/Discord-Inertia.git
-<span class="pl-c1">cd</span> pingcrm</pre></div>
+<span class="pl-c1">cd</span></pre></div>
 <p dir="auto">Install PHP dependencies:</p>
 <div class="highlight highlight-source-shell position-relative overflow-auto" data-snippet-clipboard-copy-content="composer install"><pre>composer install</pre></div>
 <p dir="auto">Install NPM dependencies:</p>
